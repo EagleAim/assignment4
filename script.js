@@ -23,3 +23,11 @@ console.log(min(0, -10));
 // Example Output:
 // console.log(searchString(“s”, “mississippi”)); // will output 4
 // console.log(searchString(“q”, “mississippi”)); // will output 0
+
+const searchString = () => {
+    return 
+}
+
+
+console.log(searchString("s", "mississippi"));
+console.log(searchString("q", "mississippi"));
